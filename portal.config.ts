@@ -5,6 +5,7 @@
 import { defineConfig } from './src/config';
 
 export default defineConfig({
+  siteUrl: "https://leganes-budget-transparency-portal.onrender.com/",
   id: "leganes-iloilo",
   kind: "municipality",
   name: "Municipality of Leganes, Iloilo",
